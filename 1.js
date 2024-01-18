@@ -1,3 +1,3 @@
-const test = () => {
+const testNameChange = () => {
     console.log("testing")
 }
