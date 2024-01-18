@@ -1,5 +1,5 @@
 const auth = (login, password) => {
-    return password
+    return login
 }
 
 auth()
