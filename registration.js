@@ -1,4 +1,4 @@
 const registration = (name, pass) => {
-    return (name,pass)
+    return (name, pass)
 }
-registration("gello", "world")
+registration("hello", "world")
